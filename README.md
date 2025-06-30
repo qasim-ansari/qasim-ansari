@@ -1,4 +1,4 @@
-# 👨‍💻 Qasim Ansari – Full Stack PHP Developer
+# 👨‍💻 Qasim Ansari – Full Stack PHP Laravel Developer
 
 Hi, I'm Qasim – a passionate Laravel developer with experience building scalable backend APIs, real-time chat systems, and full-stack applications. I specialize in writing clean code and creating robust integrations with third-party services like Zoho CRM, PhonePe, and SMS gateways.
 
