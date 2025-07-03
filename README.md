@@ -62,7 +62,7 @@ Hi, I'm Qasim – a passionate Laravel developer with experience building scalab
 
 ## 📍 Let's Connect
 
-- 📧 Email: qasim@example.com *(replace with real email)*
-- 🔗 GitHub: [github.com/qasimansari](https://github.com/qasimansari) *(if available)*
+- 📧 Email: qasim@notiontech.co.in
+- 🔗 GitHub: [github.com/qasimansari](https://github.com/qasimansari)
 - 📍 Based in: India
 
