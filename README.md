@@ -8,10 +8,10 @@ Hi, I'm Qasim – a passionate Laravel developer with experience building scalab
 
 - **Languages**: PHP, Node, JavaScript, jQuery, HTML, CSS
 - **Frameworks**: Laravel (v9–12), Express, Livewire, Bootstrap, TailwindCSS
-- **Database**: MySQL, MongoDB Eloquent ORM
+- **Database**: MySQL, MongoDB, PostgreSQL Eloquent ORM
 - **Tools**: Postman, JWT Auth, REST APIs, Socket.IO, Git
-- **Deployment**: Apache, Nginx, Google Cloud VM, Ubuntu
-- **Other**: Laravel Queues, Jobs, Validation, File Uploads, Excel Import/Export And so on...
+- **Deployment**: Apache, Nginx, Google Cloud VM, AWS, Ubuntu
+- **Other**: Laravel Queues, Firebase Notification, Jobs, Validation, File Uploads, Excel Import/Export And so on.....
 
 ---
 
