@@ -18,12 +18,12 @@ Hi, I'm Qasim – a passionate Laravel developer with experience building scalab
 ## 🚀 Featured Projects
 
 ### 🔹 Real-Time Chat Dashboard
-- Built a WhatsApp-style chat system using **Laravel API + Socket.IO + jQuery**.
+- Built a WhatsApp-style chat system using **NodeJS + MongoDB + Socket.IO + EJS Jquery**.
 - Features:
   - Sidebar contact search with **debounced filtering** via API.
   - Real-time messages (with sender/receiver distinction).
   - Fully responsive Tailwind UI with intuitive UX.
-- Backend built with Laravel and JWT for auth.
+- Backend built with NodeJS and JWT for auth.
 
 ### 🔹 Zoho CRM Sync System
 - Integrated Zoho APIs to sync:
@@ -48,6 +48,7 @@ Hi, I'm Qasim – a passionate Laravel developer with experience building scalab
 - Livewire-based new request management.
 - AMC service scheduler with auto-generated service dates.
 - Bank data uploader with reusable Blade components.
+- Others.
 
 ---
 
